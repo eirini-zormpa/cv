@@ -163,16 +163,6 @@ Reading, UK
 - Performed preliminary data analysis
 
 
-:::aside
-
-Awards & Honors
---------------------------------------------------------------------------------
-
-- **Adlai E. Stevenson High School**
-- Ambassador Award (2017)
-
-:::
-
 Selected Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
@@ -201,6 +191,15 @@ Nijmegen, NL
 
 :::aside
 
+Awards & Honours
+--------------------------------------------------------------------------------
+
+- **Donders Institute**
+- Donders Posters Theme 1 winner (2017)
+- **University of Reading**
+- Achieving Excellence Bursary Award (2014)
+
+
 Blog Posts
 --------------------------------------------------------------------------------
 
@@ -210,6 +209,29 @@ Blog Posts
 
 Peer-reviewed Publications {data-icon=book}
 --------------------------------------------------------------------------------
+
+### Slow naming of pictures facilitates memory for their names
+
+Psychonomic Bulletin & Review 26, 1675-1682 (2019). doi:10.3758/s13423-019-01620-x
+
+N/A
+
+2019
+
+**Eirini Zormpa**, Antje S. Meyer, & Laurel E. Brehm
+
+
+### The production effect and the generation effect improve memory in picture naming
+
+Memory 27, 340-352 (2019). doi:10.1080/09658211.2018.1510966
+
+N/A
+
+2019
+
+ **Eirini Zormpa**, Laurel E. Brehm, Renske S. Hoedemaker, & Antje S. Meyer
+ 
+
 
 Posters and Presentations {data-icon=bar-chart}
 --------------------------------------------------------------------------------
