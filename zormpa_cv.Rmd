@@ -1,0 +1,237 @@
+---
+title: "Eirini Zormpa CV"
+author: Eirini Zormpa
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: ['css/styles.css', 'resume']
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+---
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(
+  results='asis', 
+  echo = FALSE
+)
+
+library(glue)
+library(tidyverse)
+
+# Set this to true to have links turned into footnotes at the end of the document
+PDF_EXPORT <- FALSE
+
+# Holds all the links that were inserted for placement at the end
+links <- c()
+
+source('parsing_functions.R')
+
+```
+
+
+```{r}
+# When in export mode the little dots are unaligned, so fix that. 
+if(PDF_EXPORT){
+  cat("
+  <style>
+  :root{
+    --decorator-outer-offset-left: -6.5px;
+  }
+  </style>")
+}
+```
+
+
+Aside
+================================================================================
+
+<!--
+![logo](beta_dist.png){width=100%}
+
+```{r}
+# When in export mode the little dots are unaligned, so fix that. 
+if(PDF_EXPORT){
+  cat("View this CV online with links at _amygill.net/cv_")
+} else {
+  cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/nstrayer/cv/raw/master/strayer_cv.pdf)")
+}
+```
+-->
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+
+- <i class="fa fa-envelope"></i> eirini.zormpa@gmail.com
+- <i class="fa fa-link"></i> [eirini-zormpa.com](https://www.eirini.zormpa.com/)
+- <i class="fa fa-github"></i> [github.com/eirini-zormpa](http://github.com/eirini-zormpa)
+- <i class="fa fa-phone"></i> +31 (0)646235021
+- <i class="fa fa-linkedin"></i> [linkedin.com/in/eirini-zormpa-207335119 /](https://www.linkedin.com/in/eirini-zormpa-207335119 /)
+
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-file-alt"></i> **Writing**: Academic writing, publishing, copy-editing
+- <i class="fa fa-lightbulb-o"></i> **Research**: Experimental design, data analysis, data visualization, statistics
+- <i class="fa fa-laptop"></i> **Programming**: R, GitHub, HTML
+
+
+<!--Credentials
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-chart-area"></i> [HarvardX Data Science Professional Certificate](https://www.edx.org/professional-certificate/harvardx-data-science)
+- <i class="fa fa-drivers-license"></i> Professional Educator License (IL): Secondary Biology, Secondary Chemistry-->
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Made with the R package [pagedown](https://github.com/rstudio/pagedown). 
+
+<!--The source code is available at [github.com/gillsignals/cv](https://github.com/gillsignals/cv).
+
+See the full version of this CV with links at [amygill.net/cv](http://amygill.net/cv).-->
+
+Last updated on `r Sys.Date()`.
+
+
+Main
+================================================================================
+
+Eirini Zormpa {#title}
+--------------------------------------------------------------------------------
+
+I am a PhD student researching the interface of language and memory. I am currently looking for positions that will allow me to pursue my passion for cognitive science and open research.
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Max Planck Institute for Psycholinguistics
+
+PhD in Social Sciences
+
+Nijmegen, NL
+
+2016--2020
+
+Dissertation: Memory for speaking and listening.
+
+
+### University of Reading
+
+MSc in Language Sciences
+
+Reading, UK
+
+2014--2015
+
+### Aristotle University of Thessaloniki
+
+BA in English Language and Literature
+
+Thessaloniki, GR
+
+2009--2013
+
+Research Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Graduate Research Assistant
+
+Reading University
+
+Reading, UK
+
+2016
+
+- Assisted in a study on prospective memory using EEG/ERP.
+- Assisted in a study on bilingualism by transcribing narratives of Greek-English bilingual children
+
+### Research Assistant
+
+Reading University
+
+Reading, UK
+
+2015
+
+- Conducted research on ambiguity resolution using behavioural and eye-tracking methods
+- Recruited and tested participants
+- Pre-processed data
+- Performed preliminary data analysis
+
+
+:::aside
+
+Awards & Honors
+--------------------------------------------------------------------------------
+
+- **Adlai E. Stevenson High School**
+- Ambassador Award (2017)
+
+:::
+
+Selected Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Reproducible analyses in R 
+
+Workshop presented at MPI Psycholinguistics
+
+Nijmegen, NL
+
+Jun 2020
+
+- Developed a [workshop](https://github.com/eirini-zormpa/IMPRSConf2020) for psycholinguists showing how to use R projects, GitHub, and Binders for reproducible analytical environments.
+
+
+### Key Practices for the Language Scientist
+
+IMPRS Language Sciences
+
+Nijmegen, NL
+
+2020
+
+<!--::: concise-->
+- Created companion [recitation section](https://github.com/Aariq/biotstatistics-recitation-2018) to Biostatistics course to teach introductory R with a focus on the Tidyverse
+<!--:::-->
+
+:::aside
+
+Blog Posts
+--------------------------------------------------------------------------------
+
+- [Why mycode.R_final.v2_usethisone is not helping your workflow](https://www.software.ac.uk/blog/2020-06-05-cw20-speed-blog-why-mycoderfinalv2usethisone-not-helping-your-workflow/). Software Sustainability Institute, Speed blog written during the Collaborations Workshop 2020.
+
+:::
+
+Peer-reviewed Publications {data-icon=book}
+--------------------------------------------------------------------------------
+
+Posters and Presentations {data-icon=bar-chart}
+--------------------------------------------------------------------------------
+
+
+
+```{r}
+if(PDF_EXPORT){
+  cat("
+  
+Links {data-icon=link}
+--------------------------------------------------------------------------------
+
+<br>
+
+
+")
+  
+  walk2(links, 1:length(links), function(link, index){
+    print(glue('{index}. {link}'))
+  })
+}
+```
+
+

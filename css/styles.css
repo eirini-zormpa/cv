@@ -106,7 +106,7 @@ sup {
 
 
 /* have a sidebar item on second page with a header! */
-#main #awards-honors, #main #online-courses, #main #selected-science-writings {
+#main #awards-honors, #main #blog-posts {
   --decorator-border: none;
   left: auto;
   margin-left: 0.15in;
