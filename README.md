@@ -11,4 +11,4 @@ The main files are:
 
 ## Acknowledgments
 
-Special thanks to [Nick Strayer](http://nickstrayer.me) for providing his [pagedown CV template on GitHub](https://github.com/nstrayer/cv) and adding customization instructions.
+This CV was built on the one created by [Amy Gill](https://github.com/gillsignals/cv), in turn based on the [pagedown CV template](https://github.com/nstrayer/cv) provided by [Nick Strayer](http://nickstrayer.me).
