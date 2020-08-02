@@ -162,51 +162,6 @@ Reading, UK
 - Pre-processed data
 - Performed preliminary data analysis
 
-
-Selected Teaching Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-### Reproducible analyses in R 
-
-Workshop presented at MPI Psycholinguistics
-
-Nijmegen, NL
-
-Jun 2020
-
-- Developed a [workshop](https://github.com/eirini-zormpa/IMPRSConf2020) for psycholinguists showing how to use R projects, GitHub, and Binders for reproducible analytical environments.
-
-
-### Key Practices for the Language Scientist
-
-IMPRS Language Sciences
-
-Nijmegen, NL
-
-2020
-
-<!--::: concise-->
-- Created companion [recitation section](https://github.com/Aariq/biotstatistics-recitation-2018) to Biostatistics course to teach introductory R with a focus on the Tidyverse
-<!--:::-->
-
-:::aside
-
-Awards & Honours
---------------------------------------------------------------------------------
-
-- **Donders Institute**
-- Donders Posters Theme 1 winner (2017)
-- **University of Reading**
-- Achieving Excellence Bursary Award (2014)
-
-
-Blog Posts
---------------------------------------------------------------------------------
-
-- [Why mycode.R_final.v2_usethisone is not helping your workflow](https://www.software.ac.uk/blog/2020-06-05-cw20-speed-blog-why-mycoderfinalv2usethisone-not-helping-your-workflow/). Software Sustainability Institute, Speed blog written during the Collaborations Workshop 2020.
-
-:::
-
 Peer-reviewed Publications {data-icon=book}
 --------------------------------------------------------------------------------
 
@@ -231,10 +186,94 @@ N/A
 
  **Eirini Zormpa**, Laurel E. Brehm, Renske S. Hoedemaker, & Antje S. Meyer
  
+:::aside
 
-
-Posters and Presentations {data-icon=bar-chart}
+Awards & Honours
 --------------------------------------------------------------------------------
+
+- **Donders Institute**
+- Donders Posters Theme 1 winner (2017)
+- **University of Reading**
+- Achieving Excellence Bursary Award (2014)
+
+
+Blog Posts
+--------------------------------------------------------------------------------
+
+- [Why mycode.R_final.v2_usethisone is not helping your workflow](https://www.software.ac.uk/blog/2020-06-05-cw20-speed-blog-why-mycoderfinalv2usethisone-not-helping-your-workflow/). Software Sustainability Institute, Speed blog written during the Collaborations Workshop 2020.
+
+Volunteering
+--------------------------------------------------------------------------------
+
+- Pint of Science Nijmegen
+- Kletskoppen festival
+- Drongo Language Festival
+
+:::
+
+Selected Posters and Presentations {data-icon=bar-chart}
+--------------------------------------------------------------------------------
+
+### Communicative intentions influence memory for conversations
+Poster to be presented at the 26<sup>th</sup> Architectures and Mechanisms for Language Processing (AMLaP) conference.
+
+Potsdam, DE (online)
+
+September 2020
+
+**Eirini Zormpa**, Antje S. Meyer, & Laurel E. Brehm
+
+### Naming pictures slowly facilitates memory for their names.
+Poster presented at the 21<sup>st</sup> meeting of the European Sociery for Cognitive Psychology (ESCoP).
+
+Tenerife, ES
+
+September 2019
+
+**Eirini Zormpa**, Antje S. Meyer, & Laurel E. Brehm
+
+### The power of open science communities.
+Unconference session chaired at the 4<sup>th</sup> Meeting of the Society for the Improvement of Psychological Science (SIPS). 
+
+Rotterdam, NL
+
+July 2019
+
+Stephan Heunis, Loek Brinkman, Antonio Schettino, **Eirini Zormpa**, Alexandra Sarafoglou, Olmo van der Akker
+
+### Publishing in science
+
+Panelist at Synapsium 2018 conference.
+
+Nijmegen, NL
+
+June 2018
+
+
+Selected Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Reproducible analyses in R 
+
+Workshop presented at MPI Psycholinguistics
+
+Nijmegen, NL
+
+Jun 2020
+
+- Developed a [workshop](https://github.com/eirini-zormpa/IMPRSConf2020) for psycholinguists showing how to use R projects, GitHub, and Binders for reproducible analytical environments.
+
+
+### Key Practices for the Language Scientist
+
+IMPRS Language Sciences
+
+Nijmegen, NL
+
+2020
+
+Co-instructor with Julia Egger on a 6-week course teaching openness on all parts of the research cycle, from preregistration to publishing Open Access.
+
 
 
 

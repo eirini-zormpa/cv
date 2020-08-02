@@ -106,7 +106,7 @@ sup {
 
 
 /* have a sidebar item on second page with a header! */
-#main #awards-honors, #main #blog-posts {
+#main #awards-honours, #main #blog-posts, #main #volunteering {
   --decorator-border: none;
   left: auto;
   margin-left: 0.15in;
