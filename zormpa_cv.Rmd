@@ -224,7 +224,7 @@ September 2020
 **Eirini Zormpa**, Antje S. Meyer, & Laurel E. Brehm
 
 ### Naming pictures slowly facilitates memory for their names.
-Poster presented at the 21<sup>st</sup> meeting of the European Sociery for Cognitive Psychology (ESCoP).
+[Poster](https://osf.io/826xj/) presented at the 21<sup>st</sup> meeting of the European Sociery for Cognitive Psychology (ESCoP).
 
 Tenerife, ES
 
@@ -272,7 +272,7 @@ Nijmegen, NL
 
 2020
 
-Co-instructor with Julia Egger on a 6-week course teaching openness on all parts of the research cycle, from preregistration to publishing Open Access.
+Co-instructor with Julia Egger on a 6-week [course](https://osf.io/ftxnk/) teaching openness on all parts of the research cycle, from preregistration to publishing Open Access.
 
 
 
