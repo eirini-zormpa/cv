@@ -233,7 +233,7 @@ N/A
  
 
 
-Selected Posters and Presentations {data-icon=bar-chart}
+Selected Posters and Presentations {data-icon=presentation}
 --------------------------------------------------------------------------------
 
 ### Communicative intentions influence memory for conversations
@@ -316,6 +316,41 @@ N/A
 
 2020
 
+Selected Event Organising Experience {data-icon=tasks}
+--------------------------------------------------------------------------------
+
+### Open Science Community Nijmegen
+
+Co-founder and event organiser
+
+Nijmegen, NL
+
+2018--2020
+
+### R-Ladies Nijmegen
+
+Co-founder and event organiser
+
+Nijmegen, NL
+
+2018--2020
+
+### Pint of Science
+
+Event organiser
+
+Nijmegen, NL
+
+2018--2020
+
+### Open Access Ambassador Conference
+
+Organising Committee Member
+
+Berlin, DE
+
+Dec 2019
+
 Selected Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
@@ -338,7 +373,7 @@ Nijmegen, NL
 
 2020
 
-Co-instructor with Julia Egger on a 6-week [course](https://osf.io/ftxnk/) teaching openness on all parts of the research cycle, from preregistration to publishing Open Access.
+- Co-instructor with Julia Egger on a 6-week [course](https://osf.io/ftxnk/) teaching openness on all parts of the research cycle, from preregistration to publishing Open Access.
 
 
 
