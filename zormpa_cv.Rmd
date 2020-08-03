@@ -7,6 +7,7 @@ output:
     css: ['css/styles.css', 'resume']
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: true
+#knit: pagedown::chrome_print
 ---
 
 ```{r, include=FALSE}
@@ -19,7 +20,7 @@ library(glue)
 library(tidyverse)
 
 # Set this to true to have links turned into footnotes at the end of the document
-PDF_EXPORT <- FALSE
+PDF_EXPORT <- TRUE
 
 # Holds all the links that were inserted for placement at the end
 links <- c()
@@ -63,9 +64,9 @@ Contact {#contact}
 
 
 - <i class="fa fa-envelope"></i> eirini.zormpa@gmail.com
+- <i class="fa fa-phone"></i> +31 (0) 646235021
 - <i class="fa fa-link"></i> [eirini-zormpa.com](https://www.eirini.zormpa.com/)
 - <i class="fa fa-github"></i> [github.com/eirini-zormpa](http://github.com/eirini-zormpa)
-- <i class="fa fa-phone"></i> +31 (0)646235021
 - <i class="fa fa-linkedin"></i> [linkedin.com/in/eirini-zormpa-207335119 /](https://www.linkedin.com/in/eirini-zormpa-207335119 /)
 
 
@@ -73,16 +74,18 @@ Contact {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
+- <i class="fa fa-lightbulb-o"></i> **Research**: Experimental design, data analysis, data visualization
 - <i class="fa fa-file-alt"></i> **Writing**: Academic writing, publishing, copy-editing
-- <i class="fa fa-lightbulb-o"></i> **Research**: Experimental design, data analysis, data visualization, statistics
-- <i class="fa fa-laptop"></i> **Programming**: R, GitHub, HTML
+- <i class="fa fa-laptop"></i> **Programming and statistics**: R (tidyverse), linear mixed effects models, power analysis
 
 
-<!--Credentials
+Languages {#languages}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-chart-area"></i> [HarvardX Data Science Professional Certificate](https://www.edx.org/professional-certificate/harvardx-data-science)
-- <i class="fa fa-drivers-license"></i> Professional Educator License (IL): Secondary Biology, Secondary Chemistry-->
+- Greek &nbsp; &nbsp; <span class="dot"></span> <span class="dot"></span> <span class="dot"></span> <span class="dot"></span> <span class="dot"></span> <span class="dot"></span>
+- English &nbsp; <span class="dot"></span> <span class="dot"></span> <span class="dot"></span> <span class="dot"></span> <span class="dot"></span> <span class="dot"></span>
+- German <span class="dot"></span> <span class="dot"></span> <span class="dot"></span> <span class="dot"></span> <span class="empty-dot"></span> <span class="empty-dot"></span>
+- Dutch &nbsp; &nbsp; <span class="dot"></span> <span class="dot"></span> <span class="empty-dot"></span> <span class="empty-dot"></span> <span class="empty-dot"></span> <span class="empty-dot"></span>
 
 
 Disclaimer {#disclaimer}
@@ -116,7 +119,7 @@ Nijmegen, NL
 
 2016--2020
 
-Dissertation: Memory for speaking and listening.
+<!-- Dissertation: Memory for speaking and listening.-->
 
 
 ### University of Reading
@@ -186,6 +189,20 @@ N/A
 
  **Eirini Zormpa**, Laurel E. Brehm, Renske S. Hoedemaker, & Antje S. Meyer
  
+
+
+Selected Posters and Presentations {data-icon=bar-chart}
+--------------------------------------------------------------------------------
+
+### Communicative intentions influence memory for conversations
+Poster to be presented at the 26<sup>th</sup> Architectures and Mechanisms for Language Processing (AMLaP) conference.
+
+Potsdam, DE (online)
+
+September 2020
+
+**Eirini Zormpa**, Antje S. Meyer, & Laurel E. Brehm
+
 :::aside
 
 Awards & Honours
@@ -210,18 +227,6 @@ Volunteering
 - Drongo Language Festival
 
 :::
-
-Selected Posters and Presentations {data-icon=bar-chart}
---------------------------------------------------------------------------------
-
-### Communicative intentions influence memory for conversations
-Poster to be presented at the 26<sup>th</sup> Architectures and Mechanisms for Language Processing (AMLaP) conference.
-
-Potsdam, DE (online)
-
-September 2020
-
-**Eirini Zormpa**, Antje S. Meyer, & Laurel E. Brehm
 
 ### Naming pictures slowly facilitates memory for their names.
 [Poster](https://osf.io/826xj/) presented at the 21<sup>st</sup> meeting of the European Sociery for Cognitive Psychology (ESCoP).
