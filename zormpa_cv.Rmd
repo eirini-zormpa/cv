@@ -20,7 +20,7 @@ library(glue)
 library(tidyverse)
 
 # Set this to true to have links turned into footnotes at the end of the document
-PDF_EXPORT <- TRUE
+PDF_EXPORT <- FALSE
 
 # Holds all the links that were inserted for placement at the end
 links <- c()
@@ -76,16 +76,59 @@ Skills {#skills}
 
 - <i class="fa fa-lightbulb-o"></i> **Research**: Experimental design, data analysis, data visualization
 - <i class="fa fa-file-alt"></i> **Writing**: Academic writing, publishing, copy-editing
-- <i class="fa fa-laptop"></i> **Programming and statistics**: R (tidyverse), linear mixed effects models, power analysis
+- <i class="fa fa-laptop"></i> **Programming and statistics**: R (tidyverse), Presentation, linear mixed effects models, power analysis
 
 
 Languages {#languages}
 --------------------------------------------------------------------------------
 
-- Greek &nbsp; &nbsp; <span class="dot"></span> <span class="dot"></span> <span class="dot"></span> <span class="dot"></span> <span class="dot"></span> <span class="dot"></span>
-- English &nbsp; <span class="dot"></span> <span class="dot"></span> <span class="dot"></span> <span class="dot"></span> <span class="dot"></span> <span class="dot"></span>
-- German <span class="dot"></span> <span class="dot"></span> <span class="dot"></span> <span class="dot"></span> <span class="empty-dot"></span> <span class="empty-dot"></span>
-- Dutch &nbsp; &nbsp; <span class="dot"></span> <span class="dot"></span> <span class="empty-dot"></span> <span class="empty-dot"></span> <span class="empty-dot"></span> <span class="empty-dot"></span>
+<table>
+  <tr>
+  <th></th>
+  <th>A1</th>
+  <th>A2</th>
+  <th>B1</th>
+  <th>B2</th>
+  <th>C1</th>
+  <th>C2</th>
+  </tr>
+  <tr>
+  <td class="column1">Greek</td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  </tr>
+  <tr>
+  <td class="column1">English</td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  </tr>
+  <tr>
+  <td class="column1">German</td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  <td><span class="empty-dot"></span></td>
+  <td><span class="empty-dot"></span></td>
+  </tr>
+  <tr>
+  <td class="column1">Dutch</td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  <td><span class="empty-dot"></span></td>
+  <td><span class="empty-dot"></span></td>
+  <td><span class="empty-dot"></span></td>
+  <td><span class="empty-dot"></span></td>
+  </tr>
+</table>
 
 
 Disclaimer {#disclaimer}
