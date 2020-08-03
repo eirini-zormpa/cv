@@ -74,9 +74,9 @@ Contact {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-lightbulb-o"></i> **Research**: Experimental design, data analysis, data visualization
+- <i class="fa fa-lightbulb-o"></i> **Research**: Experimental design, data analysis, data visualisation
 - <i class="fa fa-file-alt"></i> **Writing**: Academic writing, publishing, copy-editing
-- <i class="fa fa-laptop"></i> **Programming and statistics**: R (tidyverse), Presentation, linear mixed effects models, power analysis
+- <i class="fa fa-laptop"></i> **Programming**: R (tidyverse), Presentation, git
 
 
 Languages {#languages}
@@ -192,8 +192,8 @@ Reading, UK
 
 2016
 
-- Assisted in a study on prospective memory using EEG/ERP.
-- Assisted in a study on bilingualism by transcribing narratives of Greek-English bilingual children
+- Tested participants using EEG for a study on prospective memory.
+- Transcribed narratives of Greek-English bilingual children for a study on bilingualism.
 
 ### Research Assistant
 
@@ -203,10 +203,9 @@ Reading, UK
 
 2015
 
-- Conducted research on ambiguity resolution using behavioural and eye-tracking methods
-- Recruited and tested participants
-- Pre-processed data
-- Performed preliminary data analysis
+- Conducted research on ambiguity resolution using behavioural and eye-tracking methods.
+- Recruited and tested participants.
+- Pre-processed data and performed preliminary data analysis
 
 Peer-reviewed Publications {data-icon=book}
 --------------------------------------------------------------------------------
@@ -271,16 +270,16 @@ Volunteering
 
 :::
 
-### Naming pictures slowly facilitates memory for their names.
+<!--### Naming pictures slowly facilitates memory for their names
 [Poster](https://osf.io/826xj/) presented at the 21<sup>st</sup> meeting of the European Sociery for Cognitive Psychology (ESCoP).
 
 Tenerife, ES
 
 September 2019
 
-**Eirini Zormpa**, Antje S. Meyer, & Laurel E. Brehm
+**Eirini Zormpa**, Antje S. Meyer, & Laurel E. Brehm-->
 
-### The power of open science communities.
+### The power of open science communities
 Unconference session chaired at the 4<sup>th</sup> Meeting of the Society for the Improvement of Psychological Science (SIPS). 
 
 Rotterdam, NL
@@ -297,6 +296,25 @@ Nijmegen, NL
 
 June 2018
 
+
+Reviewing Experience {data-icon=check-circle}
+--------------------------------------------------------------------------------
+
+### Frontiers in Psychology
+
+N/A
+
+N/A
+
+2019
+
+### Journal of Open Source Software
+
+N/A
+
+N/A
+
+2020
 
 Selected Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
