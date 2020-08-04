@@ -203,8 +203,7 @@ Reading, UK
 
 2015
 
-- Conducted research on ambiguity resolution using behavioural and eye-tracking methods.
-- Recruited and tested participants.
+- Tested participants using behavioural and eye-tracking methods for a study on ambiguity resolution.
 - Pre-processed data and performed preliminary data analysis
 
 Peer-reviewed Publications {data-icon=book}
@@ -256,6 +255,13 @@ Awards & Honours
 - Achieving Excellence Bursary Award (2014)
 
 
+Reviewer
+--------------------------------------------------------------------------------
+
+- Frontiers in Psychology
+- Journal of Open Source Software
+
+
 Blog Posts
 --------------------------------------------------------------------------------
 
@@ -264,7 +270,6 @@ Blog Posts
 Volunteering
 --------------------------------------------------------------------------------
 
-- Pint of Science Nijmegen
 - Kletskoppen festival
 - Drongo Language Festival
 
@@ -297,57 +302,38 @@ Nijmegen, NL
 June 2018
 
 
-Reviewing Experience {data-icon=check-circle}
---------------------------------------------------------------------------------
-
-### Frontiers in Psychology
-
-N/A
-
-N/A
-
-2019
-
-### Journal of Open Source Software
-
-N/A
-
-N/A
-
-2020
-
 Selected Event Organising Experience {data-icon=tasks}
 --------------------------------------------------------------------------------
 
 ### Open Science Community Nijmegen
 
-Co-founder and event organiser
+Co-founded a community advocating for the adoption of open science practices in Nijmegen and organised a range of events, e.g. a Lightning Talks event with app. 60 attendees and a monthly ReproducibiliTea journal club. Content creator for the [website](openscience-nijmegen.nl) and newsletter.
 
-Nijmegen, NL
-
-2018--2020
-
-### R-Ladies Nijmegen
-
-Co-founder and event organiser
-
-Nijmegen, NL
+N/A
 
 2018--2020
 
-### Pint of Science
+### R-Ladies Nijmegen chapter
 
-Event organiser
+Co-founded local R-Ladies chapter, promoting gender diversity in the R community and organised events on topics like data visualisation, literate programming and statistics. Our chapter has over 300 members.
 
-Nijmegen, NL
+N/A
+
+2018--2020
+
+### Pint of Science NL
+
+Organiser for 3-day event series bringing topics like astrophysics and neuroscience into Nijmegen pubs.
+
+N/A
 
 2018--2020
 
 ### Open Access Ambassador Conference
 
-Organising Committee Member
+Organiser for 2-day international conference on Open Access in Berlin.
 
-Berlin, DE
+N/A
 
 Dec 2019
 
