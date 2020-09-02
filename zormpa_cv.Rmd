@@ -371,7 +371,7 @@ Nijmegen, NL
 
 2019
 
-- Co-instructor with Julia Egger and Amie Fairs on a 4-week [course](https://osf.io/ftxnk/) teaching the basics of Open Science.-->
+- Co-instructor with Julia Egger and Amie Fairs on a 4-week [course](https://osf.io/pmq3g/) teaching the basics of Open Science.-->
 
 
 ```{r}
