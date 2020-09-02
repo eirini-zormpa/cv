@@ -7,7 +7,7 @@ output:
     css: ['css/styles.css', 'resume']
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: true
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 ---
 
 ```{r, include=FALSE}
@@ -74,9 +74,9 @@ Contact {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-lightbulb-o"></i> **Research**: Experimental design, data analysis, data visualisation
+- <i class="fa fa-lightbulb-o"></i> **Research**: Project management, experimental design, data analysis
 - <i class="fa fa-file-alt"></i> **Writing**: Academic writing, publishing, copy-editing
-- <i class="fa fa-laptop"></i> **Programming**: R (tidyverse), Presentation, git
+- <i class="fa fa-laptop"></i> **Programming**: R (tidyverse), git and GitHub, Presentation
 
 
 Languages {#languages}
@@ -149,7 +149,7 @@ Main
 Eirini Zormpa {#title}
 --------------------------------------------------------------------------------
 
-I am a PhD student researching the interface of language and memory. I am currently looking for positions that will allow me to pursue my passion for cognitive science and open research.
+I am a PhD student researching the interface of language and memory. I am currently looking for positions that will allow me to pursue my passion for social science and open research.
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -193,7 +193,7 @@ Reading, UK
 2016
 
 - Tested participants using EEG for a study on prospective memory.
-- Transcribed narratives of Greek-English bilingual children for a study on bilingualism.
+- Transcribed narratives of Greek-English bilingual children.
 
 ### Research Assistant
 
@@ -204,7 +204,7 @@ Reading, UK
 2015
 
 - Tested participants using behavioural and eye-tracking methods for a study on ambiguity resolution.
-- Pre-processed data and performed preliminary data analysis
+- Pre-processed data and performed preliminary data analysis.
 
 Peer-reviewed Publications {data-icon=book}
 --------------------------------------------------------------------------------
@@ -229,20 +229,27 @@ N/A
 2019
 
  **Eirini Zormpa**, Laurel E. Brehm, Renske S. Hoedemaker, & Antje S. Meyer
- 
 
-
-Selected Posters and Presentations {data-icon=presentation}
+Selected Posters and Presentations {data-icon=comment}
 --------------------------------------------------------------------------------
 
 ### Communicative intentions influence memory for conversations
-Poster to be presented at the 26<sup>th</sup> Architectures and Mechanisms for Language Processing (AMLaP) conference.
+Poster presented at the 26<sup>th</sup> Architectures and Mechanisms for Language Processing (AMLaP) conference.
 
 Potsdam, DE (online)
 
-September 2020
+Sep 2020
 
 **Eirini Zormpa**, Antje S. Meyer, & Laurel E. Brehm
+
+<!--### Naming pictures slowly facilitates memory for their names
+[Poster](https://osf.io/826xj/) presented at the 21<sup>st</sup> meeting of the European Society for Cognitive Psychology (ESCoP).
+
+Tenerife, ES
+
+September 2019
+
+**Eirini Zormpa**, Antje S. Meyer, & Laurel E. Brehm-->
 
 :::aside
 
@@ -254,12 +261,16 @@ Awards & Honours
 - **University of Reading**
 - Achieving Excellence Bursary Award (2014)
 
+Supervision
+--------------------------------------------------------------------------------
+- **Wenwen Jin**
+- Intern at Max Planck Institute for Psycholinguistics
 
 Reviewer
 --------------------------------------------------------------------------------
 
-- Frontiers in Psychology
 - Journal of Open Source Software
+- Frontiers in Psychology
 
 
 Blog Posts
@@ -275,21 +286,12 @@ Volunteering
 
 :::
 
-<!--### Naming pictures slowly facilitates memory for their names
-[Poster](https://osf.io/826xj/) presented at the 21<sup>st</sup> meeting of the European Sociery for Cognitive Psychology (ESCoP).
-
-Tenerife, ES
-
-September 2019
-
-**Eirini Zormpa**, Antje S. Meyer, & Laurel E. Brehm-->
-
 ### The power of open science communities
 Unconference session chaired at the 4<sup>th</sup> Meeting of the Society for the Improvement of Psychological Science (SIPS). 
 
 Rotterdam, NL
 
-July 2019
+Jul 2019
 
 Stephan Heunis, Loek Brinkman, Antonio Schettino, **Eirini Zormpa**, Alexandra Sarafoglou, Olmo van der Akker
 
@@ -299,7 +301,7 @@ Panelist at Synapsium 2018 conference.
 
 Nijmegen, NL
 
-June 2018
+Jun 2018
 
 
 Selected Event Organising Experience {data-icon=tasks}
@@ -348,7 +350,7 @@ Nijmegen, NL
 
 Jun 2020
 
-- Developed a [workshop](https://github.com/eirini-zormpa/IMPRSConf2020) for psycholinguists showing how to use R projects, GitHub, and Binders for reproducible analytical environments.
+- Developed a [workshop](https://github.com/eirini-zormpa/IMPRSConf2020) for psycholinguists showing how to use R projects, GitHub, and Binder for reproducible analytical environments.
 
 
 ### Key Practices for the Language Scientist
@@ -361,7 +363,15 @@ Nijmegen, NL
 
 - Co-instructor with Julia Egger on a 6-week [course](https://osf.io/ftxnk/) teaching openness on all parts of the research cycle, from preregistration to publishing Open Access.
 
+<!--### Open Science 101
 
+IMPRS Language Sciences
+
+Nijmegen, NL
+
+2019
+
+- Co-instructor with Julia Egger and Amie Fairs on a 4-week [course](https://osf.io/ftxnk/) teaching the basics of Open Science.-->
 
 
 ```{r}
