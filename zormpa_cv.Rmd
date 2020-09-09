@@ -63,9 +63,9 @@ Contact {#contact}
 --------------------------------------------------------------------------------
 
 
-- <i class="fa fa-envelope"></i> eirini.zormpa@gmail.com
+- <i class="fa fa-envelope"></i> eirinizormpa@gmail.com
 - <i class="fa fa-phone"></i> +31 (0) 646235021
-- <i class="fa fa-link"></i> [eirini-zormpa.com](https://www.eirini.zormpa.com/)
+- <i class="fa fa-link"></i> [eirini-zormpa.com](https://www.eirini-zormpa.com/)
 - <i class="fa fa-github"></i> [github.com/eirini-zormpa](http://github.com/eirini-zormpa)
 - <i class="fa fa-linkedin"></i> [linkedin.com/in/eirini-zormpa-207335119 /](https://www.linkedin.com/in/eirini-zormpa-207335119 /)
 
@@ -149,21 +149,56 @@ Main
 Eirini Zormpa {#title}
 --------------------------------------------------------------------------------
 
-I am a PhD student researching the interface of language and memory. I am currently looking for positions that will allow me to pursue my passion for social science and open research.
+<!--I am a PhD candidate researching the interface of memory and language,looking for positions enabling me to pursue my passion for social science and open research.-->
 
-Education {data-icon=graduation-cap data-concise=true}
+Experience {data-icon=flask}
 --------------------------------------------------------------------------------
 
-### Max Planck Institute for Psycholinguistics
+### PhD Candidate
 
-PhD in Social Sciences
+Max Planck Institute for Psycholinguistics
 
 Nijmegen, NL
 
 2016--2020
 
+In my PhD, I research what people remember from conversations and how that changes as a result of speaking as opposed to listening. My research uses in-person and online behavioural experiments as well as eye-tracking methods.
+
 <!-- Dissertation: Memory for speaking and listening.-->
 
+### Graduate Research Assistant
+
+Reading University
+
+Reading, UK
+
+2016
+
+I worked on two projects, one on prospective memory and one on bilingualism. My responsibilities included recruiting and testing participants using EEG and transcribing narratives of Greek-English bilingual children.
+
+<!--### Research Assistant
+
+Reading University
+
+Reading, UK
+
+2015
+
+- Tested participants using behavioural and eye-tracking methods for a study on ambiguity resolution.
+- Pre-processed data and performed preliminary data analysis.-->
+
+### Teacher of English
+
+Mingiani-Prevyzi Foreign Language School
+
+Serres, GR
+
+2013-2014
+
+I taught English to primary school children, aged 8 to 12. My responsibilities included developing the curriculum, delivering the classes, creating and grading tests, and communicating with the parents.
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
 
 ### University of Reading
 
@@ -181,75 +216,40 @@ Thessaloniki, GR
 
 2009--2013
 
-Research Experience {data-icon=flask}
+Selected Event Organising Experience {data-icon=tasks}
 --------------------------------------------------------------------------------
 
-### Graduate Research Assistant
+### Open Science Community Nijmegen
 
-Reading University
-
-Reading, UK
-
-2016
-
-- Tested participants using EEG for a study on prospective memory.
-- Transcribed narratives of Greek-English bilingual children.
-
-### Research Assistant
-
-Reading University
-
-Reading, UK
-
-2015
-
-- Tested participants using behavioural and eye-tracking methods for a study on ambiguity resolution.
-- Pre-processed data and performed preliminary data analysis.
-
-Peer-reviewed Publications {data-icon=book}
---------------------------------------------------------------------------------
-
-### Slow naming of pictures facilitates memory for their names
-
-Psychonomic Bulletin & Review 26, 1675-1682 (2019). doi:10.3758/s13423-019-01620-x
+Co-founded community advocating for open science in Nijmegen and organised events, e.g. a Lightning Talks event and a ReproducibiliTea journal club. Content creator for the [website](openscience-nijmegen.nl) and newsletter.
 
 N/A
 
-2019
+2018--2020
 
-**Eirini Zormpa**, Antje S. Meyer, & Laurel E. Brehm
+### R-Ladies Nijmegen chapter
 
-
-### The production effect and the generation effect improve memory in picture naming
-
-Memory 27, 340-352 (2019). doi:10.1080/09658211.2018.1510966
+Co-founded local R-Ladies chapter with 300+ members, promoting gender diversity in the R community. I was involved in organising and advertising our workshops on, e.g., data visualisation and literate programming.
 
 N/A
 
-2019
+2018--2020
 
- **Eirini Zormpa**, Laurel E. Brehm, Renske S. Hoedemaker, & Antje S. Meyer
+### Pint of Science NL
 
-Selected Posters and Presentations {data-icon=comment}
---------------------------------------------------------------------------------
+Organiser for 3-day science communication event bringing a range of scientific topics like astrophysics and neuroscience into Nijmegen pubs. <!--I contributed to deciding the themes, inviting speakers, and developing activities to engage the audience.-->
 
-### Communicative intentions influence memory for conversations
-Poster presented at the 26<sup>th</sup> Architectures and Mechanisms for Language Processing (AMLaP) conference.
+N/A
 
-Potsdam, DE (online)
+2018--2020
 
-Sep 2020
+### Friday Lunch Talks
 
-**Eirini Zormpa**, Antje S. Meyer, & Laurel E. Brehm
+Organiser for fortnightly science communication talks at the Max Planck Institute for Psycholinguistics. My responsibilities included inviting speakers, designing advertising materials, and chairing the sessions.
 
-<!--### Naming pictures slowly facilitates memory for their names
-[Poster](https://osf.io/826xj/) presented at the 21<sup>st</sup> meeting of the European Society for Cognitive Psychology (ESCoP).
+N/A
 
-Tenerife, ES
-
-September 2019
-
-**Eirini Zormpa**, Antje S. Meyer, & Laurel E. Brehm-->
+2018--2019
 
 :::aside
 
@@ -286,54 +286,10 @@ Volunteering
 
 :::
 
-### The power of open science communities
-Unconference session chaired at the 4<sup>th</sup> Meeting of the Society for the Improvement of Psychological Science (SIPS). 
-
-Rotterdam, NL
-
-Jul 2019
-
-Stephan Heunis, Loek Brinkman, Antonio Schettino, **Eirini Zormpa**, Alexandra Sarafoglou, Olmo van der Akker
-
-### Publishing in science
-
-Panelist at Synapsium 2018 conference.
-
-Nijmegen, NL
-
-Jun 2018
-
-
-Selected Event Organising Experience {data-icon=tasks}
---------------------------------------------------------------------------------
-
-### Open Science Community Nijmegen
-
-Co-founded a community advocating for the adoption of open science practices in Nijmegen and organised a range of events, e.g. a Lightning Talks event with app. 60 attendees and a monthly ReproducibiliTea journal club. Content creator for the [website](openscience-nijmegen.nl) and newsletter.
-
-N/A
-
-2018--2020
-
-### R-Ladies Nijmegen chapter
-
-Co-founded local R-Ladies chapter, promoting gender diversity in the R community and organised events on topics like data visualisation, literate programming and statistics. Our chapter has over 300 members.
-
-N/A
-
-2018--2020
-
-### Pint of Science NL
-
-Organiser for 3-day event series bringing topics like astrophysics and neuroscience into Nijmegen pubs.
-
-N/A
-
-2018--2020
 
 ### Open Access Ambassador Conference
 
-Organiser for 2-day international conference on Open Access in Berlin.
+Organiser for 2-day international conference on Open Access in Berlin with speakers from academia, the public sector and industry.
 
 N/A
 
@@ -350,7 +306,7 @@ Nijmegen, NL
 
 Jun 2020
 
-- Developed a [workshop](https://github.com/eirini-zormpa/IMPRSConf2020) for psycholinguists showing how to use R projects, GitHub, and Binder for reproducible analytical environments.
+Developed a [workshop](https://github.com/eirini-zormpa/IMPRSConf2020) for psycholinguists showing how to use R projects, GitHub, and Binder for reproducible analytical environments.
 
 
 ### Key Practices for the Language Scientist
@@ -361,7 +317,7 @@ Nijmegen, NL
 
 2020
 
-- Co-instructor with Julia Egger on a 6-week [course](https://osf.io/ftxnk/) teaching openness on all parts of the research cycle, from preregistration to publishing Open Access.
+Co-instructor with Julia Egger on a 6-week [course](https://osf.io/ftxnk/) teaching openness on all parts of the research cycle, from preregistration to publishing Open Access.
 
 <!--### Open Science 101
 
@@ -371,7 +327,69 @@ Nijmegen, NL
 
 2019
 
-- Co-instructor with Julia Egger and Amie Fairs on a 4-week [course](https://osf.io/pmq3g/) teaching the basics of Open Science.-->
+Co-instructor with Julia Egger and Amie Fairs on a 4-week [course](https://osf.io/pmq3g/) teaching the basics of Open Science.-->
+
+Peer-reviewed Publications {data-icon=book}
+--------------------------------------------------------------------------------
+
+### Slow naming of pictures facilitates memory for their names
+
+Psychonomic Bulletin & Review 26. doi:10.3758/s13423-019-01620-x
+
+N/A
+
+2019
+
+**Eirini Zormpa**, Antje S. Meyer, & Laurel E. Brehm
+
+
+### The production effect and the generation effect improve memory in picture naming
+
+Memory 27. doi:10.1080/09658211.2018.1510966
+
+N/A
+
+2019
+
+ **Eirini Zormpa**, Laurel E. Brehm, Renske S. Hoedemaker, & Antje S. Meyer
+
+Selected Posters and Presentations {data-icon=comment}
+--------------------------------------------------------------------------------
+
+### Communicative intentions influence memory for conversations
+Poster presented at the 26<sup>th</sup> AMLaP conference.
+
+Potsdam, DE (online)
+
+Sep 2020
+
+**Eirini Zormpa**, Antje S. Meyer, & Laurel E. Brehm
+
+<!--### Naming pictures slowly facilitates memory for their names
+[Poster](https://osf.io/826xj/) presented at the 21<sup>st</sup> meeting of the European Society for Cognitive Psychology (ESCoP).
+
+Tenerife, ES
+
+September 2019
+
+**Eirini Zormpa**, Antje S. Meyer, & Laurel E. Brehm-->
+
+### The power of open science communities
+Unconference session chaired at the 4<sup>th</sup> SIPS Meeting. 
+
+Rotterdam, NL
+
+Jul 2019
+
+Stephan Heunis, Loek Brinkman, Antonio Schettino, **Eirini Zormpa**, Alexandra Sarafoglou, Olmo van der Akker
+
+<!--### Publishing in science
+
+Panelist at Synapsium 2018 conference.
+
+Nijmegen, NL
+
+Jun 2018-->
 
 
 ```{r}
