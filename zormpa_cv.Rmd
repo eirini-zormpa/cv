@@ -75,8 +75,8 @@ Skills {#skills}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-lightbulb-o"></i> **Research**: Project management, experimental design, data analysis
-- <i class="fa fa-file-alt"></i> **Writing**: Academic writing, publishing, copy-editing
-- <i class="fa fa-laptop"></i> **Programming**: R (tidyverse), git and GitHub, Presentation
+- <i class="fa fa-file-alt"></i> **Communication**: Academic writing, presenting, teaching
+- <i class="fa fa-laptop"></i> **Programming**: R, git, GitHub
 
 
 Languages {#languages}
@@ -136,9 +136,9 @@ Disclaimer {#disclaimer}
 
 Made with the R package [pagedown](https://github.com/rstudio/pagedown). 
 
-<!--The source code is available at [github.com/gillsignals/cv](https://github.com/gillsignals/cv).
+The source code is available at [github.com/eirini-zormpa/cv](https://github.com/eirini-zormpa/cv).
 
-See the full version of this CV with links at [amygill.net/cv](http://amygill.net/cv).-->
+<!--See the full version of this CV with links at [amygill.net/cv](http://amygill.net/cv).-->
 
 Last updated on `r Sys.Date()`.
 
@@ -202,19 +202,24 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### University of Reading
 
-MSc in Language Sciences
+MSc in Language Sciences (Awarded distinction)
 
 Reading, UK
 
 2014--2015
 
+<!--- Completed two independent and one collaborative research project on bilingualism.-->
+
 ### Aristotle University of Thessaloniki
 
-BA in English Language and Literature
+BA in English Language and Literature (1<sup>st</sup> Class grade)
 
 Thessaloniki, GR
 
 2009--2013
+
+<!--- Conducted a research project on the narratives of bilingual children.
+- Undertook Erasmus exchange at Essen-Duisburg university.-->
 
 Selected Event Organising Experience {data-icon=tasks}
 --------------------------------------------------------------------------------
@@ -237,7 +242,7 @@ N/A
 
 ### Pint of Science NL
 
-Organiser for 3-day science communication event bringing a range of scientific topics like astrophysics and neuroscience into Nijmegen pubs. <!--I contributed to deciding the themes, inviting speakers, and developing activities to engage the audience.-->
+Organiser for 3-day science communication event bringing science into Nijmegen pubs. I helped with inviting speakers and audience engagement.
 
 N/A
 
@@ -245,7 +250,7 @@ N/A
 
 ### Friday Lunch Talks
 
-Organiser for fortnightly science communication talks at the Max Planck Institute for Psycholinguistics. My responsibilities included inviting speakers, designing advertising materials, and chairing the sessions.
+Organiser for fortnightly informal talks at the MPI Psycholinguistics. My duties included inviting speakers, designing flyers, and chairing sessions.
 
 N/A
 
@@ -276,20 +281,21 @@ Reviewer
 Blog Posts
 --------------------------------------------------------------------------------
 
-- [Why mycode.R_final.v2_usethisone is not helping your workflow](https://www.software.ac.uk/blog/2020-06-05-cw20-speed-blog-why-mycoderfinalv2usethisone-not-helping-your-workflow/). Software Sustainability Institute, Speed blog written during the Collaborations Workshop 2020.
+- [**Why mycode.R_final.v2_usethisone is not helping your workflow**](https://www.software.ac.uk/blog/2020-06-05-cw20-speed-blog-why-mycoderfinalv2usethisone-not-helping-your-workflow/). Software Sustainability Institute, Speed blog written during the Collaborations Workshop 2020.
 
 Volunteering
 --------------------------------------------------------------------------------
 
-- Kletskoppen festival
-- Drongo Language Festival
+- **Kletskoppen Child Language Festival** (2018)
+- **Drongo Language Festival** (2017)
+- **Erasmus Student Network (ESN)** - Aristotle University of Thessaloniki (2012-2014)
 
 :::
 
 
 ### Open Access Ambassador Conference
 
-Organiser for 2-day international conference on Open Access in Berlin with speakers from academia, the public sector and industry.
+Organiser for a 2-day international conference on Open Access in Berlin, connecting stakeholders from academia, the public sector and industry.
 
 N/A
 
