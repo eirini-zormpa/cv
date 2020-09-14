@@ -74,9 +74,17 @@ Contact {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-lightbulb-o"></i> **Research**: Project management, experimental design, data analysis
-- <i class="fa fa-file-alt"></i> **Communication**: Academic writing, presenting, teaching
-- <i class="fa fa-laptop"></i> **Programming**: R, git, GitHub
+- <i class="fa fa-file-alt"></i> **Communication**:
+  - **Presenting** for varied audiences
+  - **Teaching** open science and reproducibility
+  - **Writing**, academic and non-academic
+- <i class="fa fa-laptop"></i> **Computer skills**:
+   - **OSF** and **GitHub** for project management
+   - **Git** for version control
+   - **R** and **RStudio** for data analysis and visualisation
+   - **Overleaf** and **Markdown** for text editing and typesetting
+   - **LimeSurvey** for online experiments/surveys
+   - **MS Office** and **Google Office Suite**
 
 
 Languages {#languages}
@@ -136,9 +144,9 @@ Disclaimer {#disclaimer}
 
 Made with the R package [pagedown](https://github.com/rstudio/pagedown). 
 
-The source code is available at [github.com/eirini-zormpa/cv](https://github.com/eirini-zormpa/cv).
+<!--The source code is available at [github.com/eirini-zormpa/cv](https://github.com/eirini-zormpa/cv).
 
-<!--See the full version of this CV with links at [amygill.net/cv](http://amygill.net/cv).-->
+See the full version of this CV with links at [amygill.net/cv](http://amygill.net/cv).-->
 
 Last updated on `r Sys.Date()`.
 
@@ -240,7 +248,7 @@ N/A
 
 2018--2020
 
-### Pint of Science NL
+<!--### Pint of Science NL
 
 Organiser for 3-day science communication event bringing science into Nijmegen pubs. I helped with inviting speakers and audience engagement.
 
@@ -254,7 +262,24 @@ Organiser for fortnightly informal talks at the MPI Psycholinguistics. My duties
 
 N/A
 
-2018--2019
+2018--2019-->
+
+### Open Access Ambassador Conference
+
+Organiser for two-day international conference on Open Access in Berlin, connecting stakeholders from academia, the public sector, and industry.
+
+N/A
+
+Dec 2019
+
+
+### Alumni Career Event
+
+Organiser for two-day event with 11 speakers on the topic "Discovering Possibilities in Academia & Beyond". I was responsible for analysing and presenting data from a survey of MPI alumni and liasing with speakers.
+
+N/A
+
+Oct 2019
 
 :::aside
 
@@ -286,20 +311,21 @@ Blog Posts
 Volunteering
 --------------------------------------------------------------------------------
 
+- **Pint of Science NL** - Nijmegen team (2018-2020)
 - **Kletskoppen Child Language Festival** (2018)
 - **Drongo Language Festival** (2017)
 - **Erasmus Student Network (ESN)** - Aristotle University of Thessaloniki (2012-2014)
 
 :::
 
+### IMPRS Introduction Days
 
-### Open Access Ambassador Conference
-
-Organiser for a 2-day international conference on Open Access in Berlin, connecting stakeholders from academia, the public sector and industry.
+Organiser for two-day event welcoming new graduate students. I invited speakers on science and academic culture and facilitated a discussion on PhD life covering topics like work-life balance and mental health.
 
 N/A
 
-Dec 2019
+Sep 2019
+
 
 Selected Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
