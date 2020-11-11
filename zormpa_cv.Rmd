@@ -7,7 +7,7 @@ output:
     css: ['css/styles.css', 'resume']
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: true
-knit: pagedown::chrome_print
+#knit: pagedown::chrome_print
 ---
 
 ```{r, include=FALSE}
@@ -65,7 +65,7 @@ Contact {#contact}
 
 - <i class="fa fa-envelope"></i> eirinizormpa@gmail.com
 - <i class="fa fa-map-marker"></i> Flat 8 Glenoven Court, Searle St., Cambridge CB4 3DW
-- <i class="fa fa-phone"></i> +31 (0) 646235021
+- <i class="fa fa-phone"></i> 07598115129
 - <i class="fa fa-link"></i> [eirini-zormpa.com](https://www.eirini-zormpa.com/)
 - <i class="fa fa-github"></i> [github.com/eirini-zormpa](http://github.com/eirini-zormpa)
 <!--- <i class="fa fa-linkedin"></i> [linkedin.com/in/eirini-zormpa-207335119 /](https://www.linkedin.com/in/eirini-zormpa-207335119 /)-->
@@ -158,7 +158,7 @@ Main
 Eirini Zormpa {#title}
 --------------------------------------------------------------------------------
 
-<!--I am a PhD candidate researching the interface of memory and language,looking for positions enabling me to pursue my passion for social science and open research.-->
+Doctoral researcher in psychological science with a passion for teaching and open science. Driven and reliable with excellent verbal and written communication skills.
 
 Experience {data-icon=flask}
 --------------------------------------------------------------------------------
@@ -171,7 +171,9 @@ Nijmegen, NL
 
 2016--2020
 
-In my PhD, I research what people remember from conversations and how that changes as a result of speaking as opposed to listening. My research uses in-person and online behavioural experiments as well as eye-tracking methods.
+- Planned and managed own PhD project and co-supervised intern project.
+- Designed and ran multi-phase, in-lab and online experiments.
+- Analysed complex datasets using (logistic) mixed effects models in R.
 
 <!-- Dissertation: Memory for speaking and listening.-->
 
@@ -183,7 +185,8 @@ Reading, UK
 
 2016
 
-I worked on two projects, one on prospective memory and one on bilingualism. My responsibilities included recruiting and testing participants using EEG and transcribing narratives of Greek-English bilingual children.
+- Tested participants using EEG for a study on prospective memory.
+- Transcribed narratives of Greek-English bilingual children.
 
 <!--### Research Assistant
 
@@ -204,7 +207,8 @@ Serres, GR
 
 2013-2014
 
-I taught English to primary school children, aged 8 to 12. My responsibilities included developing the curriculum, delivering the classes, creating and grading tests, and communicating with the parents.
+- Developed and delivered lessons aimed at children aged 8-12.
+- Created and graded assessments.
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -217,7 +221,7 @@ Reading, UK
 
 2014--2015
 
-Completed two independent and one collaborative research project on bilingualism.
+- Conducted independent and collaborative research on bilingualism.
 
 ### Aristotle University of Thessaloniki
 
@@ -227,8 +231,8 @@ Thessaloniki, GR
 
 2009--2013
 
-- Conducted a research project on the narratives of bilingual children.
-- Undertook Erasmus exchange at Essen-Duisburg university.
+<!--- Undertook Erasmus exchange at Duisburg-Essen University.-->
+- Conducted research project on the narratives of bilingual children.
 
 Selected Event Organising Experience {data-icon=tasks}
 --------------------------------------------------------------------------------
@@ -312,7 +316,7 @@ Blog Posts
 Volunteering
 --------------------------------------------------------------------------------
 
-- **Pint of Science NL** - Nijmegen team (2018-2020)
+<!--- **Pint of Science NL** - Nijmegen team (2018-2020)-->
 - **Kletskoppen Child Language Festival** (2018)
 - **Drongo Language Festival** (2017)
 - **Erasmus Student Network (ESN)** - Aristotle University of Thessaloniki (2012-2014)
