@@ -64,10 +64,11 @@ Contact {#contact}
 
 
 - <i class="fa fa-envelope"></i> eirinizormpa@gmail.com
+- <i class="fa fa-map-marker"></i> Flat 8 Glenoven Court, Searle St., Cambridge CB4 3DW
 - <i class="fa fa-phone"></i> +31 (0) 646235021
 - <i class="fa fa-link"></i> [eirini-zormpa.com](https://www.eirini-zormpa.com/)
 - <i class="fa fa-github"></i> [github.com/eirini-zormpa](http://github.com/eirini-zormpa)
-- <i class="fa fa-linkedin"></i> [linkedin.com/in/eirini-zormpa-207335119 /](https://www.linkedin.com/in/eirini-zormpa-207335119 /)
+<!--- <i class="fa fa-linkedin"></i> [linkedin.com/in/eirini-zormpa-207335119 /](https://www.linkedin.com/in/eirini-zormpa-207335119 /)-->
 
 
 
@@ -142,7 +143,7 @@ Languages {#languages}
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-Made with the R package [pagedown](https://github.com/rstudio/pagedown). 
+Made with [pagedown](https://github.com/rstudio/pagedown) in R. 
 
 <!--The source code is available at [github.com/eirini-zormpa/cv](https://github.com/eirini-zormpa/cv).
 
@@ -216,7 +217,7 @@ Reading, UK
 
 2014--2015
 
-<!--- Completed two independent and one collaborative research project on bilingualism.-->
+Completed two independent and one collaborative research project on bilingualism.
 
 ### Aristotle University of Thessaloniki
 
@@ -226,8 +227,8 @@ Thessaloniki, GR
 
 2009--2013
 
-<!--- Conducted a research project on the narratives of bilingual children.
-- Undertook Erasmus exchange at Essen-Duisburg university.-->
+- Conducted a research project on the narratives of bilingual children.
+- Undertook Erasmus exchange at Essen-Duisburg university.
 
 Selected Event Organising Experience {data-icon=tasks}
 --------------------------------------------------------------------------------
@@ -248,7 +249,7 @@ N/A
 
 2018--2020
 
-<!--### Pint of Science NL
+### Pint of Science NL
 
 Organiser for 3-day science communication event bringing science into Nijmegen pubs. I helped with inviting speakers and audience engagement.
 
@@ -262,7 +263,7 @@ Organiser for fortnightly informal talks at the MPI Psycholinguistics. My duties
 
 N/A
 
-2018--2019-->
+2018--2019
 
 ### Open Access Ambassador Conference
 
@@ -316,6 +317,15 @@ Volunteering
 - **Drongo Language Festival** (2017)
 - **Erasmus Student Network (ESN)** - Aristotle University of Thessaloniki (2012-2014)
 
+References
+--------------------------------------------------------------------------------
+- **Professor Antje S. Meyer**
+- Promotor, supervisor
+- antje.meyer@mpi.nl
+- **Dr Laurel E. Brehm**
+- Supervisor
+- laurel.brehm@mpi.nl
+
 :::
 
 ### IMPRS Introduction Days
@@ -351,7 +361,7 @@ Nijmegen, NL
 
 Co-instructor with Julia Egger on a 6-week [course](https://osf.io/ftxnk/) teaching openness on all parts of the research cycle, from preregistration to publishing Open Access.
 
-<!--### Open Science 101
+### Open Science 101
 
 IMPRS Language Sciences
 
@@ -359,7 +369,7 @@ Nijmegen, NL
 
 2019
 
-Co-instructor with Julia Egger and Amie Fairs on a 4-week [course](https://osf.io/pmq3g/) teaching the basics of Open Science.-->
+Co-instructor with Julia Egger and Amie Fairs on a 4-week [course](https://osf.io/pmq3g/) teaching the basics of Open Science.
 
 Peer-reviewed Publications {data-icon=book}
 --------------------------------------------------------------------------------
@@ -415,13 +425,13 @@ Jul 2019
 
 Stephan Heunis, Loek Brinkman, Antonio Schettino, **Eirini Zormpa**, Alexandra Sarafoglou, Olmo van der Akker
 
-<!--### Publishing in science
+### Publishing in science
 
 Panelist at Synapsium 2018 conference.
 
 Nijmegen, NL
 
-Jun 2018-->
+Jun 2018
 
 
 ```{r}
