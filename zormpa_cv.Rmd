@@ -7,7 +7,7 @@ output:
     css: ['css/styles.css', 'resume']
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: true
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 ---
 
 ```{r, include=FALSE}
@@ -69,17 +69,16 @@ Contact {#contact}
 - <i class="fa fa-link"></i> [eirini-zormpa.com](https://www.eirini-zormpa.com/)
 - <i class="fa fa-github"></i> [github.com/eirini-zormpa](http://github.com/eirini-zormpa)
 <!--- <i class="fa fa-linkedin"></i> [linkedin.com/in/eirini-zormpa-207335119 /](https://www.linkedin.com/in/eirini-zormpa-207335119 /)-->
+- <i class="fa fa-globe"></i> [osf.io/nbxjs](https://osf.io/nbxjs/)
 
 
 
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-file-alt"></i> **Communication**:
-  - **Presenting** for varied audiences
-  - **Teaching** open science and reproducibility
-  - **Writing**, academic and non-academic
-- <i class="fa fa-laptop"></i> **Computer skills**:
+- <i class="fa fa-comment"></i> **Presenting** and **writing** for academic and lay audiences
+- <i class="fa fa-chalkboard-teacher"></i> **Teaching** about open science, in-person and online
+- <i class="fa fa-laptop"></i> **Coding and software**:
    - **OSF** and **GitHub** for project management
    - **Git** for version control
    - **R** and **RStudio** for data analysis and visualisation
@@ -158,7 +157,7 @@ Main
 Eirini Zormpa {#title}
 --------------------------------------------------------------------------------
 
-Doctoral researcher in psychological science with a passion for teaching and open science. Driven and reliable with excellent verbal and written communication skills.
+Doctoral researcher in psychological science with a passion for open science and open source software. Driven and reliable with excellent communication skills.
 
 Experience {data-icon=flask}
 --------------------------------------------------------------------------------
@@ -172,12 +171,14 @@ Nijmegen, NL
 2016--2020
 
 - Planned and managed own PhD project and co-supervised intern project.
-- Designed and ran multi-phase, in-lab and online experiments.
-- Analysed complex datasets using (logistic) mixed effects models in R.
+<!--- Designed and ran multi-phase, in-lab and online experiments.
+- Analysed complex datasets using (logistic) mixed effects models in R.-->
+- Used open science best practices in own work (e.g. data/code sharing).
+- Advocated for the adoption of open science practices on Radboud campus.
 
 <!-- Dissertation: Memory for speaking and listening.-->
 
-### Graduate Research Assistant
+<!--### Graduate Research Assistant
 
 Reading University
 
@@ -186,7 +187,7 @@ Reading, UK
 2016
 
 - Tested participants using EEG for a study on prospective memory.
-- Transcribed narratives of Greek-English bilingual children.
+- Transcribed narratives of Greek-English bilingual children.-->
 
 <!--### Research Assistant
 
@@ -263,7 +264,7 @@ N/A
 
 ### Friday Lunch Talks
 
-Organiser for fortnightly informal talks at the MPI Psycholinguistics. My duties included inviting speakers, designing flyers, and chairing sessions.
+Organiser for fortnightly informal talks at the MPI Psycholinguistics.<!-- My duties included inviting speakers, designing flyers, and chairing sessions.-->
 
 N/A
 
@@ -276,15 +277,6 @@ Organiser for two-day international conference on Open Access in Berlin, connect
 N/A
 
 Dec 2019
-
-
-### Alumni Career Event
-
-Organiser for two-day event with 11 speakers on the topic "Discovering Possibilities in Academia & Beyond". I was responsible for analysing and presenting data from a survey of MPI alumni and liasing with speakers.
-
-N/A
-
-Oct 2019
 
 :::aside
 
@@ -304,6 +296,8 @@ Supervision
 Reviewer
 --------------------------------------------------------------------------------
 
+- Memory
+- Memory & Cognition
 - Journal of Open Source Software
 - Frontiers in Psychology
 
@@ -332,13 +326,21 @@ References
 
 :::
 
+<!--### Alumni Career Event
+
+Organiser for two-day event with 11 speakers on the topic "Discovering Possibilities in Academia & Beyond". I was responsible for analysing and presenting data from a survey of MPI alumni and liasing with speakers.
+
+N/A
+
+Oct 2019
+
 ### IMPRS Introduction Days
 
 Organiser for two-day event welcoming new graduate students. I invited speakers on science and academic culture and facilitated a discussion on PhD life covering topics like work-life balance and mental health.
 
 N/A
 
-Sep 2019
+Sep 2019-->
 
 
 Selected Teaching Experience {data-icon=chalkboard-teacher}
@@ -363,9 +365,9 @@ Nijmegen, NL
 
 2020
 
-Co-instructor with Julia Egger on a 6-week [course](https://osf.io/ftxnk/) teaching openness on all parts of the research cycle, from preregistration to publishing Open Access.
+Jointly developed and taught (with Julia Egger) a mandatory 6-week [course](https://osf.io/ftxnk/) on why and how to be open and transparent throughout the research cycle.
 
-### Open Science 101
+<!--### Open Science 101
 
 IMPRS Language Sciences
 
@@ -373,34 +375,29 @@ Nijmegen, NL
 
 2019
 
-Co-instructor with Julia Egger and Amie Fairs on a 4-week [course](https://osf.io/pmq3g/) teaching the basics of Open Science.
+Co-instructor with Julia Egger and Amie Fairs on a 4-week [course](https://osf.io/pmq3g/) teaching the basics of Open Science.-->
 
-Peer-reviewed Publications {data-icon=book}
---------------------------------------------------------------------------------
+### R Markdown
 
-### Slow naming of pictures facilitates memory for their names
+R-Ladies Nijmegen
 
-Psychonomic Bulletin & Review 26. doi:10.3758/s13423-019-01620-x
+Nijmegen, NL
 
-N/A
+Oct 2018
 
-2019
+Jointly developed (with Sara Iacozza) a [workshop](https://github.com/RLadiesNijmegen/RMarkdown) on reproducible reports using literate programming, in this case R Markdown.
 
-**Eirini Zormpa**, Antje S. Meyer, & Laurel E. Brehm
-
-
-### The production effect and the generation effect improve memory in picture naming
-
-Memory 27. doi:10.1080/09658211.2018.1510966
-
-N/A
-
-2019
-
- **Eirini Zormpa**, Laurel E. Brehm, Renske S. Hoedemaker, & Antje S. Meyer
 
 Selected Posters and Presentations {data-icon=comment}
 --------------------------------------------------------------------------------
+
+<!--### Open science and early career researchers
+Invited talk at the meeting of the Max Planck Society Social Science Libraries (online).
+
+Nijmegen, NL
+
+Oct 2020-->
+
 
 ### Communicative intentions influence memory for conversations
 Poster presented at the 26<sup>th</sup> AMLaP conference.
@@ -429,13 +426,37 @@ Jul 2019
 
 Stephan Heunis, Loek Brinkman, Antonio Schettino, **Eirini Zormpa**, Alexandra Sarafoglou, Olmo van der Akker
 
-### Publishing in science
+<!--### Publishing in science
 
 Panelist at Synapsium 2018 conference.
 
 Nijmegen, NL
 
-Jun 2018
+Jun 2018-->
+
+Peer-reviewed Publications {data-icon=book}
+--------------------------------------------------------------------------------
+
+### Slow naming of pictures facilitates memory for their names
+
+Psychonomic Bulletin & Review 26. doi:10.3758/s13423-019-01620-x
+
+N/A
+
+2019
+
+**Eirini Zormpa**, Antje S. Meyer, & Laurel E. Brehm
+
+
+### The production effect and the generation effect improve memory in picture naming
+
+Memory 27. doi:10.1080/09658211.2018.1510966
+
+N/A
+
+2019
+
+ **Eirini Zormpa**, Laurel E. Brehm, Renske S. Hoedemaker, & Antje S. Meyer
 
 
 ```{r}
