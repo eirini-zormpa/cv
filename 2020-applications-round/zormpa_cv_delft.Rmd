@@ -1,0 +1,497 @@
+---
+title: "Eirini Zormpa CV"
+author: Eirini Zormpa
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: ['css/styles.css', 'resume']
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+knit: pagedown::chrome_print
+---
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(
+  results='asis', 
+  echo = FALSE
+)
+
+library(glue)
+library(tidyverse)
+
+# Set this to true to have links turned into footnotes at the end of the document
+PDF_EXPORT <- FALSE
+
+# Holds all the links that were inserted for placement at the end
+links <- c()
+
+source('parsing_functions.R')
+
+```
+
+
+```{r}
+# When in export mode the little dots are unaligned, so fix that. 
+if(PDF_EXPORT){
+  cat("
+  <style>
+  :root{
+    --decorator-outer-offset-left: -6.5px;
+  }
+  </style>")
+}
+```
+
+
+Aside
+================================================================================
+
+<!--
+![logo](beta_dist.png){width=100%}
+
+```{r}
+# When in export mode the little dots are unaligned, so fix that. 
+if(PDF_EXPORT){
+  cat("View this CV online with links at _amygill.net/cv_")
+} else {
+  cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/nstrayer/cv/raw/master/strayer_cv.pdf)")
+}
+```
+-->
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+
+- <i class="fa fa-envelope"></i> eirinizormpa@gmail.com
+- <i class="fa fa-map-marker"></i> Flat 8 Glenoven Court, Searle St., Cambridge CB4 3DW, UK
+- <i class="fa fa-phone"></i> +31 (0) 646235021
+- <i class="fa fa-link"></i> [eirini-zormpa.com](https://www.eirini-zormpa.com/)
+- <i class="fa fa-github"></i> [github.com/eirini-zormpa](http://github.com/eirini-zormpa)
+- <i class="fa fa-linkedin"></i> [linkedin.com/in/eirini-zormpa-207335119 /](https://www.linkedin.com/in/eirini-zormpa-207335119 /)
+
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-chalkboard-teacher"></i> **Teaching** open science workshops and courses, in-person and online
+- <i class="fa fa-comment"></i> **Presenting** and **writing** for academic and lay audiences
+- <i class="fa fa-laptop"></i> **Programming** and **software**
+  - **R** and **RStudio** for data analysis and visualisation
+  - **Git** for version control
+  - **OSF** and **GitHub** for project management
+  - **LimeSurvey** for online experiments/surveys
+  - **Overleaf** and **Markdown** for text editing and typesetting
+  - **Zotero** and **EndNote** for reference management
+  - **MS Office** and **Google Office Suite**
+
+Languages {#languages}
+--------------------------------------------------------------------------------
+
+<table>
+  <tr>
+  <th></th>
+  <th>A1</th>
+  <th>A2</th>
+  <th>B1</th>
+  <th>B2</th>
+  <th>C1</th>
+  <th>C2</th>
+  </tr>
+  <tr>
+  <td class="column1">Greek</td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  </tr>
+  <tr>
+  <td class="column1">English</td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  </tr>
+  <tr>
+  <td class="column1">German</td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  <td><span class="empty-dot"></span></td>
+  <td><span class="empty-dot"></span></td>
+  </tr>
+  <tr>
+  <td class="column1">Dutch</td>
+  <td><span class="dot"></span></td>
+  <td><span class="dot"></span></td>
+  <td><span class="empty-dot"></span></td>
+  <td><span class="empty-dot"></span></td>
+  <td><span class="empty-dot"></span></td>
+  <td><span class="empty-dot"></span></td>
+  </tr>
+</table>
+
+
+Main
+================================================================================
+
+Eirini Zormpa {#title}
+--------------------------------------------------------------------------------
+
+Doctoral researcher in psychological science with a passion for teaching and open science. Driven and reliable with excellent verbal and written communication skills.
+
+Experience {data-icon=briefcase}
+--------------------------------------------------------------------------------
+
+### PhD Candidate
+
+Max Planck Institute for Psycholinguistics
+
+Nijmegen, NL
+
+2016--2020
+
+- Planned and managed own PhD project and co-supervised intern project.
+- Designed and ran multi-phase, in-lab and online experiments.
+- Analysed complex datasets using (logistic) mixed effects models in R.
+
+<!-- Dissertation: Memory for speaking and listening.-->
+
+### Graduate Research Assistant
+
+Reading University
+
+Reading, UK
+
+2016
+
+- Tested participants using EEG for a study on prospective memory.
+- Transcribed narratives of Greek-English bilingual children.
+
+<!--### Research Assistant
+
+Reading University
+
+Reading, UK
+
+2015
+
+- Tested participants using behavioural and eye-tracking methods for a study on ambiguity resolution.
+- Pre-processed data and performed preliminary data analysis.-->
+
+### Teacher of English
+
+Mingiani-Prevyzi Foreign Language School
+
+Serres, GR
+
+2013-2014
+
+- Developed and delivered lessons aimed at children aged 8-12.
+- Created and graded assessments.
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of Reading
+
+MSc in Language Sciences (Awarded distinction)
+
+Reading, UK
+
+2014--2015
+
+- Conducted independent and collaborative research on bilingualism.
+
+### Aristotle University of Thessaloniki
+
+BA in English Language and Literature (1<sup>st</sup> Class grade)
+
+Thessaloniki, GR
+
+2009--2013
+
+- Undertook Erasmus exchange at Duisburg-Essen University.
+- Conducted research project on the narratives of bilingual children.
+
+Community Organising Experience {data-icon=users}
+--------------------------------------------------------------------------------
+
+### Open Science Community Nijmegen
+
+Co-founded local community advocating for open science. Event organiser, e.g. of a ReproducibiliTea journal club and content creator for [website](openscience-nijmegen.nl) and newsletter.
+
+N/A
+
+2018--2020
+
+### R-Ladies Nijmegen chapter
+
+Co-founded local R-Ladies chapter with 300+ members, promoting gender diversity in the R community. See below for workshops.
+
+N/A
+
+2018--2020
+
+Teaching and Training Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+:::aside
+
+Awards & Honours
+--------------------------------------------------------------------------------
+
+- **Donders Institute**
+- Donders Posters Theme 1 winner (2017)
+- **University of Reading**
+- Achieving Excellence Bursary Award (2014)
+
+Supervision
+--------------------------------------------------------------------------------
+- **Wenwen Jin**
+- Intern at Max Planck Institute for Psycholinguistics
+
+Reviewer
+--------------------------------------------------------------------------------
+
+- Memory & Cognition
+- Journal of Open Source Software
+- Frontiers in Psychology
+
+
+Blog Posts
+--------------------------------------------------------------------------------
+
+- [**Why mycode.R_final.v2_usethisone is not helping your workflow**](https://www.software.ac.uk/blog/2020-06-05-cw20-speed-blog-why-mycoderfinalv2usethisone-not-helping-your-workflow/). Software Sustainability Institute, Speed blog written during the Collaborations Workshop 2020.
+
+Volunteering
+--------------------------------------------------------------------------------
+
+- **Kletskoppen Child Language Festival** (2018)
+- **Drongo Language Festival** (2017)
+- **Erasmus Student Network (ESN)** - Aristotle University of Thessaloniki (2012-2014)
+
+References
+--------------------------------------------------------------------------------
+
+- **Professor Antje S. Meyer**
+- Promotor, supervisor
+- antje.meyer@mpi.nl
+- **Dr Laurel E. Brehm**
+- Supervisor
+- laurel.brehm@mpi.nl
+
+:::
+
+### Open data & reproducibility: R Markdown, Dashboards, Binder
+
+UK Cognitive Linguistics Conference 2020 (online).
+
+Birmingham, UK
+
+Jul 2020
+
+Jointly developed (with Pablo Bernabeu) a [workshop](https://tinyurl.com/UKCLC2020) on reproducibility for cognitive linguists. I showed participants how to use Markdown and HTML in and outside R and highlighted the usefulness of Binders.
+
+### Reproducible analyses in R 
+
+IMPRS Conference 2020 (online).
+
+Nijmegen, NL
+
+Jun 2020
+
+Developed a [workshop](https://github.com/eirini-zormpa/IMPRSConf2020) for psycholinguists showing how to use R projects, GitHub, and Binder for reproducible analytical environments.
+
+
+### Key Practices for the Language Scientist
+
+IMPRS Language Sciences
+
+Nijmegen, NL
+
+2020
+
+Jointly developed (with Julia Egger) a mandatory 6-week [course](https://osf.io/ftxnk/) teaching openness on all parts of the research cycle to new PhD students.
+
+### Towards reproducible science: Power analysis
+
+R-Ladies Nijmegen
+
+Nijmegen, NL
+
+Jun 2019
+
+Jointly developed (with Laurel Brehm and Marianne de Heer Kloots) a [workshop](https://github.com/RLadiesNijmegen/Power) on why and how to conduct power analyses using data simulations.
+
+### Open Science 101
+
+IMPRS Language Sciences
+
+Nijmegen, NL
+
+2019
+
+Jointly developed (with Julia Egger and Amie Fairs) a new 4-week [course](https://osf.io/pmq3g/) teaching the basics of Open Science to PhD students and post-docs.
+
+### R Markdown
+
+R-Ladies Nijmegen
+
+Nijmegen, NL
+
+Oct 2018
+
+Jointly developed (with Sara Iacozza) a [workshop](https://github.com/RLadiesNijmegen/RMarkdown) on creating reproducible reports with literate programming, in this case R Markdown.
+
+
+Event Organising Experience {data-icon=tasks}
+--------------------------------------------------------------------------------
+
+### Pint of Science NL
+
+Organiser for 3-day science communication event bringing science into Nijmegen pubs. I helped with inviting speakers and audience engagement.
+
+N/A
+
+2018--2020
+
+### Friday Lunch Talks
+
+Organiser for fortnightly informal talks at the MPI Psycholinguistics. My duties included inviting speakers, designing flyers, and chairing sessions.
+
+N/A
+
+2018--2019
+
+### Open Access Ambassador Conference
+
+Organiser for two-day international conference on Open Access in Berlin, connecting stakeholders from academia, the public sector, and industry.
+
+N/A
+
+Dec 2019
+
+
+### Alumni Career Event
+
+Organiser for two-day event with 11 speakers on the topic "Discovering Possibilities in Academia & Beyond". I was responsible for analysing and presenting data from a survey of MPI alumni and liasing with speakers.
+
+N/A
+
+Oct 2019
+
+### IMPRS Introduction Days
+
+Organiser for two-day event welcoming new graduate students. I invited speakers on science and academic culture and facilitated a discussion on PhD life covering topics like work-life balance and mental health.
+
+N/A
+
+Sep 2019
+
+
+Selected Presentations {data-icon=comment}
+--------------------------------------------------------------------------------
+
+### Open science and early career researchers
+Invited talk at the meeting of the Max Planck Society Social Science Libraries (online).
+
+Nijmegen, NL
+
+Oct 2020
+
+### Communicative intentions influence memory for conversations
+Poster presented at the 26<sup>th</sup> AMLaP conference (online).
+
+Potsdam, DE
+
+Sep 2020
+
+**Eirini Zormpa**, Antje S. Meyer, & Laurel E. Brehm
+
+### Naming pictures slowly facilitates memory for their names
+[Poster](https://osf.io/826xj/) presented at the 21<sup>st</sup> ESCoP meeting.
+
+Tenerife, ES
+
+September 2019
+
+**Eirini Zormpa**, Antje S. Meyer, & Laurel E. Brehm
+
+### The power of open science communities
+Unconference session chaired at the 4<sup>th</sup> SIPS Meeting. 
+
+Rotterdam, NL
+
+Jul 2019
+
+Stephan Heunis, Loek Brinkman, Antonio Schettino, **Eirini Zormpa**, Alexandra Sarafoglou, Olmo van der Akker
+
+### Publishing in science
+
+Panelist at Synapsium 2018 conference.
+
+Nijmegen, NL
+
+Jun 2018
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Made with [pagedown](https://github.com/rstudio/pagedown) in R. 
+
+<!--The source code is available at [github.com/eirini-zormpa/cv](https://github.com/eirini-zormpa/cv).
+
+See the full version of this CV with links at [amygill.net/cv](http://amygill.net/cv).-->
+
+Last updated on `r Sys.Date()`.
+
+Peer-reviewed Publications {data-icon=book}
+--------------------------------------------------------------------------------
+
+### Slow naming of pictures facilitates memory for their names
+
+Psychonomic Bulletin & Review 26. doi:10.3758/s13423-019-01620-x
+
+N/A
+
+2019
+
+**Eirini Zormpa**, Antje S. Meyer, & Laurel E. Brehm
+
+
+### The production effect and the generation effect improve memory in picture naming
+
+Memory 27. doi:10.1080/09658211.2018.1510966
+
+N/A
+
+2019
+
+ **Eirini Zormpa**, Laurel E. Brehm, Renske S. Hoedemaker, & Antje S. Meyer
+ 
+```{r}
+if(PDF_EXPORT){
+  cat("
+  
+Links {data-icon=link}
+--------------------------------------------------------------------------------
+
+<br>
+
+
+")
+  
+  walk2(links, 1:length(links), function(link, index){
+    print(glue('{index}. {link}'))
+  })
+}
+```
+
+

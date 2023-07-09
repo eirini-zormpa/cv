@@ -141,7 +141,7 @@ th, td {
 
 
 /* have a sidebar item on second page with a header! */
-#main #awards-honours, #main #reviewer, #main #supervision, #main #blog-posts, #main #volunteering, #main #references {
+#main #awards-honours, #main #reviewer, #main #selected-presentations, #main #supervision, #main #peer-reviewed-publications, #main #blog-posts, #main #volunteering, #main #references {
   --decorator-border: none;
   left: auto;
   margin-left: 0.15in;
