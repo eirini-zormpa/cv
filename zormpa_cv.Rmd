@@ -63,9 +63,9 @@ Contact {#contact}
 --------------------------------------------------------------------------------
 
 
-- <i class="fa fa-envelope"></i> eirinizormpa@gmail.com
-- <i class="fa fa-map-marker"></i> Flat 8 Glenoven Court, Searle St., Cambridge CB4 3DW
-- <i class="fa fa-phone"></i> 07598115129
+- <i class="fa fa-envelope"></i> 
+- <i class="fa fa-map-marker"></i> 
+- <i class="fa fa-phone"></i> 
 <!--- the website itself is pretty out of date
 - <i class="fa fa-link"></i> [eirini-zormpa.com](https://www.eirini-zormpa.com/)
 -->
